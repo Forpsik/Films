@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Films — киножурнал",
+  "short_name": "Films",
+  "description": "Личный список фильмов и сериалов",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#092018",
+  "theme_color": "#092018",
+  "icons": [
+    { "src": "icons/films-option-1-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/films-option-1-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
